@@ -1,0 +1,19 @@
+# <ins>Applications</ins>
+- Brave
+- Slack
+- Mattermost
+- Outlook
+- File Explorer
+- Joplin
+- RDCman
+- Beyond Compare
+- Sublime
+- KeepassXC
+- Windows Terminal
+- Vmware
+- Gitkraken
+- VSCode
+- Visual Studio Code
+- Visual Studio 2022
+- Eclipse
+- AutoIT

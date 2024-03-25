@@ -1,0 +1,28 @@
+# <ins>Shortcuts</ins>
+
+- **tmux new -s session_name**
+- **tmux list-session**
+- **tmux attach -t session_name**
+- **tmux kill-session -t session_name**
+- **tmux kill-server** (kill all sessions)
+- **ctrl-s** (search down)
+- **ctrl-space** (start copying)
+- **ctrl-w** (end copy mode}
+- **ctrl-b**
+    - **$** (rename session window)
+    - **,** (rename current window)
+    - **c** (create new window)
+    - **%** (make veritical window split)
+    - **"** (make horizontal window split)
+    - **&** (close current window)
+    - **s** (list sessions)
+    - **:set mouse on** (makes mouse controlling)
+    - **n** (change current window view)
+    - **0:1:2 …** (change to window pane view)
+    - **\[** (enter copy mode) (arrows to scroll then press '**q**' to exit)
+    - **\]** (paste)
+    - **d** (detach from session)
+    - **x** (close current pane)
+    - **!** (convert pane to window)
+    - **f** (find window)
+    - **?** (list shortcuts)
